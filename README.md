@@ -1,9 +1,18 @@
-- 👋 Hi, I’m @PurpleByte24
-- 👀 I’m interested in Cyber Sec
-- 🌱 I’m currently learning BurpSuite, Python
-<!--- 📫 How to reach me ...
---->
-<!---
-PurpleByte24/PurpleByte24 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+# About Me
+Hi, I'm PurpleByte24! I'm a young motivated Programmer, currently working toward my high school diploma.
+
+## Interests
+- Cybersecurity
+- Software Development
+
+## Skills
+- **Python:** Advanced
+- **BurpSuite:** Beginner
+- **Nmap:** Beginner
+- **Wireshark:** Beginner
+
+## Note
+Please keep in mind:
+- I started using Github in November 2024, so I'm still learning how to use it effectively.
+- I began learning Python in 2022. Some of my older projects may have structures or parts that are accordingly simple and could be improved.
+- English is *not* my first language, so please excuse any typos or errors.
