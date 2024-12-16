@@ -6,7 +6,7 @@ Hi, I'm PurpleByte24! I'm a young motivated Programmer, currently working toward
 - Software Development
 
 ## Skills
-- **Python:** Advanced
+- **Python:** Intermediate
 - **BurpSuite:** Beginner
 - **Nmap:** Beginner
 - **Wireshark:** Beginner
